@@ -9,7 +9,7 @@
 ## ⚙️ Setup
 1. Clone repository:
    ```bash
-   git clone https://github.com/Saadullah128/SFME.git
+   git clone https://github.com/Saadullah128/SFMS.git
    cd SFMS
 
 
