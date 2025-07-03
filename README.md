@@ -1,6 +1,6 @@
 # Student Financial Management System (SFMS)
 
-## 🚀 Features
+##  Features
 - Student profile management
 - Payment processing with QuickBooks integration
 - Automated invoice generation
@@ -34,7 +34,7 @@ python manage.py migrate
 python manage.py runserver
 
 # API Documemtation
-🌟 API Documentation
+API Documentation
 Students
 Endpoint	Method	Description
 /api/students/	POST	Create new student
